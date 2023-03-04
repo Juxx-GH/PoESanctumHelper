@@ -1,0 +1,51 @@
+Floor 1
+"""""""
+++ Find Exit
+    Abandoned Library
++ Kill Guards
+    Chamber of Inscription
+- Exit Traps
+    Holy trails
+--- Battle Arena
+    Templar annals
+- Miniboss
+    Scriptorium
+
+Floor 2
+"""""""
+++ Find Exit
+    Decrepit Cellar
++ Kill Guards
+    Derelict Caverns
+- Exit Traps
+    Gauntlet
+- Miniboss
+    Reliquary
+--- Battle Arena
+    Battlegrounds
+
+Floor 3
+"""""""
+++ Find Exit
+    Halls of Worship
++ Kill Guards
+    Unholy lair
+- Exit Traps
+    Crucible
+- Miniboss
+    Sanctum Bellum
+--- Battle Arena
+    Infernum
+    
+Floor 4
+"""""""
+++ Find Exit
+    Undercroft
++ Kill Guards
+    Lost catacombs
+- Exit Traps
+    Entombment
+- Miniboss
+    Mausoleum
+--- Battle Arena
+    Desecrated Crypt
